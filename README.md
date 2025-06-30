@@ -98,7 +98,7 @@ The system uses a SQL Server database with a `Users` table. Key columns include:
 ## Getting Started
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/user-management-system.git
+   git clone https://github.com/yourusername/user-management-system.git](https://github.com/AnasSarkiz/User-Mangment-System-with-cHash
 
 2. **Open in Visual Studio 2022**
    - Open the solution file.
